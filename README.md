@@ -23,7 +23,7 @@ Examples
 --------------
 
     $ airtv suits
-    $ airtv 'game of throne'
+    $ airtv 'game of thrones'
     
 License
 --------------
