@@ -1,6 +1,6 @@
 {
   "name": "airtv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI to get air dates for tv shows.",
   "main": "app.js",
   "preferGlobal": "true",
