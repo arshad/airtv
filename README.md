@@ -3,6 +3,8 @@ airtv
 
 A CLI for TV Shows.
 
+[![Build Status](https://travis-ci.org/arshad/airtv.svg?branch=master)](https://travis-ci.org/arshad/airtv)
+
 ![output](https://cloud.githubusercontent.com/assets/124599/8627396/d96084d2-275b-11e5-9e02-128244058152.gif)
 
 Need a CLI for subtitles? Try [subdb](https://github.com/arshad/subdb-cli).
