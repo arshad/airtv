@@ -5,7 +5,7 @@ A CLI for TV Shows.
 
 ![output](https://cloud.githubusercontent.com/assets/124599/8627396/d96084d2-275b-11e5-9e02-128244058152.gif)
 
-Need a CLI for subtitles? Try [subdb](https://github.com/arshad/subdb).
+Need a CLI for subtitles? Try [subdb](https://github.com/arshad/subdb-cli).
 
 Installation
 --------------
