@@ -1,0 +1,37 @@
+{
+  "name": "airtv",
+  "version": "1.0.0",
+  "description": "CLI to get air dates for tv shows.",
+  "main": "app.js",
+  "preferGlobal": "true",
+  "bin": {
+    "airtv": "app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:arshad/airtv.git"
+  },
+  "keywords": [
+    "node",
+    "tv",
+    "tv show"
+  ],
+  "author": "Arshad Chummun <arshad@chummun.com> (http://arshad.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arshad/airtv"
+  },
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/arshad/airtv",
+  "dependencies": {
+    "request": "~2.34.0",
+    "commander": "~2.3.0",
+    "xml2js": "~0.4.9",
+    "cli-table": "~0.3.1",
+    "moment": "~2.10.3",
+    "colors": "~1.1.2"
+  }
+}
