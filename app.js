@@ -10,7 +10,7 @@ program
 
 /**
  * Check command.
- * Example: hia check [name].
+ * Example: airtv [name].
  */
 program
   .command('*')
