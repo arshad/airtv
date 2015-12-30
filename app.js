@@ -4,9 +4,8 @@ var airtv = require('./lib/airtv.js');
 
 // Get version from package.json.
 var version = require('./package.json').version;
-
 program
-   .version(version)
+   .version(version);
 
 /**
  * Check command.
